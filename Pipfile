@@ -7,6 +7,8 @@ verify_ssl = true
 
 [packages]
 mkdocs = "~=1.1.2"
+mkdocs-rtd-dropdown = "*"
+mkdocs-material = "*"
 
 [requires]
 python_version = "3.7"

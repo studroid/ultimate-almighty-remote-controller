@@ -1,4 +1,10 @@
 site_name: My Docs
 repo_url: https://github.com/studroid/ultimate-almighty-remote-controller
 edit_uri: ""
-theme: readthedocs
+theme: 
+  # name: rtd-dropdown
+  # name: readthedocs
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
