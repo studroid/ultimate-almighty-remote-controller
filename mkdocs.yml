@@ -3,8 +3,8 @@ repo_url: https://github.com/studroid/ultimate-almighty-remote-controller
 edit_uri: ""
 theme: 
   # name: rtd-dropdown
-  # name: readthedocs
-  name: material
-  features:
-    - navigation.tabs
-    - navigation.tabs.sticky
+  name: readthedocs
+  # name: material
+  # features:
+  #   - navigation.tabs
+  #   - navigation.tabs.sticky
