@@ -1,4 +1,6 @@
-# Welcome to MkDocs
+# Welcome to UARC
+
+**U**ltimate **A**lmighty **R**emote **C**ontroller
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
